@@ -1,4 +1,4 @@
 MisterMath
 ==========
 
-Jogo de  matemática em java
+Jogo de  matemática escrito em Java com Swing.
